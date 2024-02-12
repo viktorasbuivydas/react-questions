@@ -1,0 +1,7 @@
+.wrapper {
+  height: 80px;
+  background-color: cadetblue;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+}

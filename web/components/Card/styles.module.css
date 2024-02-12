@@ -1,0 +1,10 @@
+.wrapper {
+  border: solid black 2px;
+  margin-bottom: 3rem;
+  padding: 1rem;
+}
+
+.wrapper a {
+  text-decoration: none;
+  color: rgb(44, 44, 44);
+}

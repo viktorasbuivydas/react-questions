@@ -1,0 +1,17 @@
+.wrapper {
+  height: 80px;
+  background-color: cadetblue;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 2rem;
+}
+
+.logout {
+  cursor: pointer;
+}
